@@ -1,5 +1,7 @@
 # Natours
 
+## Hello and welcome to Natours Project! :zany_face:
+
 ## Install all dependencies
 
 Run `npm install` to install all necessary dependencies for the entire project.
