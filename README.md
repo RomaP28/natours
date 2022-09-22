@@ -12,4 +12,4 @@ Run `npm start`. It will automatically run a live-server. If it wasn't open auto
 
 ## Build
 
-Run `npm build` to compile and minify all .sass files to one style.css after making all changes.
+Run `npm build:css` to compile and minify all .sass files to one style.css after making all changes.
