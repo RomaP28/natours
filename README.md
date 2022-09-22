@@ -2,7 +2,7 @@
 
 ## Installing all depencies
 
-Run `npm install`. It's going to install all necessary depencies for entire project.
+Run `npm install`. It's going to install all necessary depencies for the entire project.
 
 ## Run project
 
@@ -10,4 +10,4 @@ Run `npm start` it will automatically run a live-server. Navigate to `http://loc
 
 ## Build
 
-Run `npm build` to compile all the styleshhets.
+Run `npm build` to compile and minify all .sass files to style.css after making all changes.
