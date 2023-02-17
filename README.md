@@ -3,9 +3,9 @@
 
 ## Hello and welcome to Natours Project! :zany_face:
 
-##Project is running on [GitHub Pages](https://romap28.github.io/natours/)
+## Project is running on [GitHub Pages](https://romap28.github.io/natours/)
 
-##To run project locally:
+## To run project locally:
 ## Install all dependencies
 
 Run `npm install` to install all necessary dependencies for the entire project.
